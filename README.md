@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 Hello! I'm Kajal, a passionate Full Stack Web Developer. 
 
-<!--
-**kajal-03/kajal-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I specialize in building robust and scalable web applications using cutting-edge technologies. My skills span both frontend and backend development, allowing me to create seamless and engaging user experiences.
 
-Here are some ideas to get you started:
+🚀 On the frontend, I'm well-versed in HTML, CSS, and JavaScript, with expertise in modern frameworks like React.js and Next.js. I enjoy crafting intuitive and responsive interfaces that bring designs to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 When it comes to the backend, I'm experienced in server-side languages such as Node.js and Java, and I have a knack for designing and optimizing databases using technologies like MongoDB and PostgreSQL.
+
+⚙️ My tech stack includes:
+- Frontend: React.js, Next.js, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express.js, Java
+- Databases: MongoDB, PostgreSQL, MySQL
+- Tools: Git, Docker
+
+🌐 Apart from coding, I'm passionate about exploring new technologies, solving challenging problems, and staying up-to-date with the latest industry trends.
+
+📫 Let's connect! Feel free to reach out for collaborations, discussions, or if you just want to talk tech. Excited to contribute to the world of web development!
+
+🔗 [Portfolio](https://kajal.ezynix.com/) | [LinkedIn](https://www.linkedin.com/in/kajal-madhusudan-30143422b/)
